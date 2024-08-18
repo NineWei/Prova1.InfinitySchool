@@ -1,2 +1,1 @@
-Prova 1 - Infinity School
-Programa para calcular a área de um retângulo.
+Prova 1 - Programa para calcular a área de um retângulo.
